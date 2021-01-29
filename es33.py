@@ -1,6 +1,5 @@
 '''
-In un laboratorio di analisi 
-i pazienti sono sottoposti ad un esame specialistico secondo l'ordine di arrivo.
+In un laboratorio di analisi i pazienti sono sottoposti ad un esame specialistico secondo l'ordine di arrivo.
 Scrivi un programma che consenta di registrare i nomi dei pazienti mano a mano che arrivano.
 Visualizza poi il nome del paziente che deve essere sottoposto all'esame
 perchè è il primo della coda in attesa.
