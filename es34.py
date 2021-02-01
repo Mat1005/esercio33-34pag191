@@ -10,7 +10,7 @@ La funzione che produce l'elenco dei partecipanti ai quali è già stata inviata
 Partecipanti = []
 Lettera_inviata = []
 Lettera_mancante = []
-lunghezza  =  int(input( "Quanti partecipanti sono in coda" ))
+lunghezza  =  int(input( "Quanti partecipanti sono al convegno?" ))
 for n in range(1, lunghezza + 1):
     partecipante = input("Inserire nome partecipante")
     età = int(input("Quanti anni ha?"))
